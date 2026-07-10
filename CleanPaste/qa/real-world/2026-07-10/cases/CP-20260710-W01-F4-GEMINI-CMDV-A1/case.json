@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W01-F4-GEMINI-CMDV-A1",
+  "surface_id": "W01",
+  "surface": "Google Docs document body",
+  "fixture_id": "F4",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact text match after trimming destination-added trailing newlines.",
+  "executed_at": "2026-07-10T14:00:00+09:00"
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "CP-20260710-W01-F2-GEMINI-CMDV-A1",
+  "surface_id": "W01",
+  "surface": "Google Docs document body",
+  "fixture": "F2",
+  "source_provider": "Gemini",
+  "paste_path": "Command-V through Chrome clipboard bridge",
+  "browser": "Google Chrome 149.0.7827.158",
+  "document": "QA DO NOT SEND - CleanPaste - W01 - 2026-07-10",
+  "expected_sha256": "c644803d824f40dc8ccbc79bc1a83ff79d1daf1f6d64fb90d8d8b55d430303d4",
+  "actual_sha256": "c644803d824f40dc8ccbc79bc1a83ff79d1daf1f6d64fb90d8d8b55d430303d4",
+  "status": "pass",
+  "score": 100,
+  "list_rendering": "literal markers retained; Docs did not create native ul/ol semantics",
+  "reload_persistence": true,
+  "critical_assertions": {"text_integrity": true, "literal_markers": true, "numbering": true, "persistence": true}
+}
+

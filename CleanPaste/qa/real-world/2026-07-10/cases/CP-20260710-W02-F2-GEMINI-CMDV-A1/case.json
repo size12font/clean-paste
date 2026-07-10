@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W02-F2-GEMINI-CMDV-A1",
+  "surface_id": "W02",
+  "surface": "Google Docs comment",
+  "fixture_id": "F2",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact list-marker text match; draft not posted.",
+  "executed_at": "2026-07-10T14:05:00+09:00"
+}

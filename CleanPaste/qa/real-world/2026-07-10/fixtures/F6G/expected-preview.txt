@@ -1,0 +1,22 @@
+F6 CLEANPASTE QA
+
+F6_P1 This paragraph serves as the initial verification baseline for the text processing module. It verifies that multi-line inputs maintain proper spacing and structure during clipboard data ingestion. The ingestion pipeline must handle diverse character encodings seamlessly, ensuring that formatting like bold text and italic text registers correctly within the target system interface.
+
+F6_P2 This second paragraph provides additional structural data to test sequential paragraph rendering across structural transitions. The application processes various input elements, verifying that specific inline code entities like clean_paste() resolve accurately without breaking the underlying text layout. System operators utilize a labeled link to https://openai.com (https://openai.com) to benchmark performance metrics and validate hyperlink routing.
+
+- F6_B1 Standard verification item.
+- F6_B2 Secondary structural parent element.
+- F6_B2A Nested child element A for indentation tests.
+- F6_B2B Nested child element B verifying multi-level list parsing.
+
+3. F6_N3 First ordered sequence marker.
+4. F6_N4 Second ordered sequence marker.
+5. F6_N5 Third ordered sequence marker.
+
+    Line alpha verification
+    Line beta verification
+
+The execution environment requires strict handling of localized text strings such as the Korean text 클린페이스트 to prevent character corruption. System configuration boundaries use specific smart quotes “like this” alongside an em—dash character to ensure correct typography parsing. Final test sequences utilize the emoji 🧪 token to guarantee full compatibility with multi-byte unicode sequences across varying system clipboards.
+
+F6_END
+

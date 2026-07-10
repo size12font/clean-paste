@@ -1,0 +1,2 @@
+Exact semantic match after trimming two Google Docs copy-back trailing newlines. Literal list markers persisted after reload.
+

@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D03-F4-PRODUCTION-CMDV-A1",
+  "surface_id": "D03",
+  "surface": "Apple Notes note body",
+  "fixture_id": "F4",
+  "source_path": "raw provider plain replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "fail",
+  "score": 85,
+  "severity": "P2",
+  "notes": "Destination constraint: Apple Notes removes leading indentation and expands tabs; words and ordering remain readable.",
+  "executed_at": "2026-07-10T09:59:48Z"
+}

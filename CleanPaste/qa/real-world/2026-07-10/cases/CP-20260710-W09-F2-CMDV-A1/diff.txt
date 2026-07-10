@@ -1,0 +1,1 @@
+Visual line layout matches. Copy-back adds one newline per contenteditable paragraph; paired-newline collapse restores canonical text.

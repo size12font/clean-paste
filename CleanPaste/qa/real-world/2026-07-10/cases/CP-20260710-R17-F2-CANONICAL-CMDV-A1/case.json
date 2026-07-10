@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-R17-F2-CANONICAL-CMDV-A1",
+  "surface_id": "R17",
+  "surface": "FreeFormatter JSON source textarea",
+  "profile": "source_editor",
+  "fixture_id": "F2",
+  "source_path": "frozen CleanPaste canonical clipboard bridge",
+  "paste_path": "Command-V",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact canonical copy-back match.",
+  "executed_at": "2026-07-10T09:55:08.525Z"
+}

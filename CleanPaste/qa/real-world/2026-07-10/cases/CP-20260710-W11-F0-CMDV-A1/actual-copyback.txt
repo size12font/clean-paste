@@ -1,0 +1,7 @@
+F0_INTEGRITY
+
+F0_LINE_1 alpha repeated repeated
+
+F0_LINE_2 punctuation ! ? , . : ; ( ) [ ] { }
+
+F0_END

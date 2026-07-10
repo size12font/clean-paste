@@ -1,0 +1,10 @@
+{
+  "fixture_id": "F5",
+  "canonical_sha256_without_trailing_newline": "807e1d94168d0fc011909e577cd8b7ebbc7b29e52600b5e1413d0746dfc34979",
+  "canonical_bytes": 308,
+  "canonical_characters": 252,
+  "canonical_lines": 12,
+  "required_tokens_in_order": ["F5 UNICODE", "F5_HANGUL", "F5_JAPANESE", "F5_ARABIC", "F5_ACCENT", "F5_COMBINING", "F5_EMOJI", "F5_QUOTES", "F5_DASH", "F5_END"],
+  "source_observation": "CleanPaste removes family-emoji zero-width joiners, decomposing one family glyph into four person glyphs."
+}
+

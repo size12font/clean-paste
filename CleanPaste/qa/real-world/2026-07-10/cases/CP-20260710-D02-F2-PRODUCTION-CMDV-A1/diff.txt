@@ -1,0 +1,16 @@
+--- /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D02-F2-PRODUCTION-CMDV-A1/expected.txt	2026-07-10 18:34:59
++++ /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D02-F2-PRODUCTION-CMDV-A1/actual.txt	2026-07-10 18:34:59
+@@ -1,13 +1 @@
+-F2 LISTS
+ 
+-- F2_B1
+-- F2_B2
+-- F2_B2A
+-- F2_B2B
+-Continuation line for F2_B2B.
+-
+-7. F2_N7
+-8. F2_N8
+-9. F2_N9
+-
+-F2_END

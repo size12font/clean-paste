@@ -1,0 +1,9 @@
+{
+  "fixture_id": "F7",
+  "canonical_sha256_without_trailing_newline": "56feceecd4c52f1f72b6af562ebb8844a7581c8a6408760ceb1931bf1092696c",
+  "canonical_bytes": 124,
+  "canonical_characters": 124,
+  "canonical_lines": 12,
+  "required_tokens_in_order": ["F7 CONSTRAINED", "F7_SINGLE", "F7_A1", "F7_C2", "F7_BULLET_1", "F7_BULLET_2", "F7_CODE", "F7_END"],
+  "source_observation": "Real tab separators preserved; Gemini did not retain requested indentation for F7_CODE in copied output."
+}

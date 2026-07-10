@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D04-F4-PRODUCTION-CMDV-A1",
+  "surface_id": "D04",
+  "surface": "Apple Pages document body",
+  "fixture_id": "F4",
+  "source_path": "raw provider plain replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "invalid_harness",
+  "score": null,
+  "severity": null,
+  "notes": "Invalid attempt: initial Pages focus contamination. Fixed runner then passed 3/3.",
+  "executed_at": "2026-07-10T10:03:39Z"
+}

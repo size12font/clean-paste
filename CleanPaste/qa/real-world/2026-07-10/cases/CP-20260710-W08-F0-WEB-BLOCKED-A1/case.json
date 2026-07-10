@@ -1,0 +1,9 @@
+{
+  "case_id": "CP-20260710-W08-F0-WEB-BLOCKED-A1",
+  "surface_id": "W08",
+  "fixture_id": "F0",
+  "status": "blocked_auth",
+  "score": null,
+  "notes": "Notion marketing page; Log in required. Existing sessions only; no account creation or auth expansion authorized.",
+  "executed_at": "2026-07-10T14:55:00+09:00"
+}

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "F7",
+  "provider": "Gemini",
+  "copy_method": "native Copy button",
+  "clipboard_bridge": "Chrome automation clipboard to macOS NSPasteboard",
+  "representations": [
+    {"mime_type": "text/plain", "character_count": 138, "sha256": "cf45bff80d35162d3dd75980ae32fb9d76d061b3e6eb41c6f55358510fa7be8d"},
+    {"mime_type": "text/html", "character_count": 48727, "sha256": "b5f1fdd28964dcee69050a93abe2f9c37d82e2036f6b01104849ab91db1bb800", "payload_saved": false}
+  ]
+}
+

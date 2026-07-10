@@ -1,0 +1,2 @@
+[safe starter fixture] ```swift\nlet file_name = \"demo.txt\"\nlet snake_case = true\n```
+

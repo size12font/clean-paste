@@ -1,0 +1,7 @@
+Line 8: expected two leading spaces before `- F6_B2A`; actual has none.
+Line 9: expected two leading spaces before `- F6_B2B`; actual has none.
+Line 15: expected two leading spaces before `alpha`; actual has none.
+Line 16: expected two leading spaces before `beta`; actual has none.
+
+Mismatch reproduced 3/3 with identical actual SHA-256.
+

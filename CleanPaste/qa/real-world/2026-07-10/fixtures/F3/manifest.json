@@ -1,0 +1,10 @@
+{
+  "fixture_id": "F3",
+  "canonical_sha256_without_trailing_newline": "cf1ee3f7eccd0117995749e919b952376fcb5274e8d89c328b86d6d53d35c253",
+  "canonical_bytes": 160,
+  "canonical_characters": 160,
+  "canonical_lines": 11,
+  "required_tokens_in_order": ["F3 INLINE", "F3_BOLD", "F3_ITALIC", "F3_BOTH", "F3_STRIKE", "f3_inline_code()", "F3_LINK", "F3_END"],
+  "source_observation": "Bare URL represented as a self-labeled Markdown link becomes duplicated label plus URL in preview."
+}
+

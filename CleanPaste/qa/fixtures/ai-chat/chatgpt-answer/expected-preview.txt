@@ -1,0 +1,6 @@
+Here is the plan:
+
+Step one: Copy the clean text.
+
+Step two: Paste into Buffer.
+

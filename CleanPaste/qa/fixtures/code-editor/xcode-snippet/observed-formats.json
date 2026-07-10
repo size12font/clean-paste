@@ -1,0 +1,18 @@
+{
+  "captureMode" : "controlled-live-harness",
+  "capturedAt" : "2026-07-09T23:49:07Z",
+  "category" : "code-editor",
+  "fullCapture" : true,
+  "hasHTML" : false,
+  "hasPlainText" : true,
+  "hasRTF" : false,
+  "htmlLength" : 0,
+  "plainTextLength" : 63,
+  "privacy" : "Full payload captured from checked-in non-sensitive fixture text by explicit confirmation.",
+  "rtfLength" : 0,
+  "sourceHarness" : "appkit_plain_text",
+  "types" : [
+    "NSStringPboardType",
+    "public.utf8-plain-text"
+  ]
+}

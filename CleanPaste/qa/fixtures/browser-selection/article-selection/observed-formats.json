@@ -1,0 +1,28 @@
+{
+  "captureMode" : "controlled-live-harness",
+  "capturedAt" : "2026-07-09T23:49:07Z",
+  "category" : "browser-selection",
+  "fullCapture" : true,
+  "hasHTML" : true,
+  "hasPlainText" : true,
+  "hasRTF" : true,
+  "htmlLength" : 568,
+  "plainTextLength" : 102,
+  "privacy" : "Full payload captured from checked-in non-sensitive fixture text by explicit confirmation.",
+  "preferredSourceFlavor" : "html",
+  "rtfLength" : 437,
+  "sourceHarness" : "webkit_selection",
+  "types" : [
+    "Apple HTML pasteboard type",
+    "Apple Web Archive pasteboard type",
+    "CorePasteboardFlavorType 0x75743136",
+    "NSStringPboardType",
+    "NeXT Rich Text Format v1.0 pasteboard type",
+    "com.apple.WebKit.custom-pasteboard-data",
+    "com.apple.webarchive",
+    "public.html",
+    "public.rtf",
+    "public.utf16-external-plain-text",
+    "public.utf8-plain-text"
+  ]
+}

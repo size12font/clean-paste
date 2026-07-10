@@ -1,0 +1,13 @@
+# F1 WHITESPACE
+
+F1_P1 This synthetic clipboard QA fixture uses neutral text to verify whitespace handling and paragraph preservation during copy and paste operations.
+
+F1_HARD_A
+F1_HARD_B
+
+F1_P2 This paragraph follows an intentionally blank paragraph and is included to confirm that empty paragraph spacing is preserved consistently across different editors and clipboard implementations.
+
+This is a visually long sentence intended to wrap naturally according to the width of the display area while remaining a single uninterrupted line without any manually inserted newline so that clipboard processing can distinguish automatic visual wrapping from explicit line breaks during verification of formatting behavior.
+
+F1_END
+

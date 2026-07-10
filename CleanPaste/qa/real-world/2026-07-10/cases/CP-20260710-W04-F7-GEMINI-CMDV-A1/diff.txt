@@ -1,0 +1,2 @@
+Declared grid fallback. Newlines mapped to rows. Tab-separated F7_A/F7_B/F7_C values mapped to three columns. Non-tab rows occupy column A with empty B/C cells. All tokens preserved.
+

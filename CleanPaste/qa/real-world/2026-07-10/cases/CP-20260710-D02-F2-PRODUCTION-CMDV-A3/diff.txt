@@ -1,0 +1,8 @@
+--- /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D02-F2-PRODUCTION-CMDV-A3/expected.txt	2026-07-10 18:36:10
++++ /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D02-F2-PRODUCTION-CMDV-A3/actual.txt	2026-07-10 18:36:10
+@@ -1,4 +1,4 @@
+-F2 LISTS
++MilanF2 LISTS
+ 
+ - F2_B1
+ - F2_B2

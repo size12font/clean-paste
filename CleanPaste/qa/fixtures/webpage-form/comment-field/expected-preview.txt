@@ -1,0 +1,4 @@
+First line with NBSP
+
+Second line with hidden char
+

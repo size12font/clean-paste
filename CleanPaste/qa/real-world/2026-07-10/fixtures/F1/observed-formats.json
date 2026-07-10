@@ -1,0 +1,11 @@
+{
+  "fixture_id": "F1",
+  "provider": "ChatGPT",
+  "copy_method": "native Copy response button",
+  "clipboard_bridge": "Chrome automation clipboard to macOS NSPasteboard",
+  "representations": [
+    {"mime_type": "text/plain", "character_count": 725, "sha256": "addd0516ed49a7d834446bb460f66b2392485980801f48ce3564a2a5d396f911"},
+    {"mime_type": "text/html", "character_count": 759, "sha256": "d5cc95bf1bddc710c5cfab88970152fb7bd1cc89e126c46a14f15b9438d202ed"}
+  ]
+}
+

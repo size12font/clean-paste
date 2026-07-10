@@ -1,0 +1,17 @@
+{
+  "case_id": "CP-20260710-W01-F0-CHATGPT-CMDV-A1",
+  "surface_id": "W01",
+  "surface": "Google Docs document body",
+  "fixture": "F0",
+  "source_provider": "ChatGPT",
+  "paste_path": "Command-V through Chrome clipboard bridge",
+  "browser": "Google Chrome 149.0.7827.158",
+  "document": "QA DO NOT SEND - CleanPaste - W01 - 2026-07-10",
+  "expected_sha256": "f3767d9ed789a371afbb526879da533a14186ef46e5421e6b9ee90e6c354087b",
+  "actual_sha256": "f3767d9ed789a371afbb526879da533a14186ef46e5421e6b9ee90e6c354087b",
+  "status": "pass",
+  "score": 100,
+  "destination_mutation": "Google Docs copy-back appends two trailing newlines; ignored by declared normalization.",
+  "critical_assertions": {"text_integrity": true, "line_order": true, "persistence": true}
+}
+

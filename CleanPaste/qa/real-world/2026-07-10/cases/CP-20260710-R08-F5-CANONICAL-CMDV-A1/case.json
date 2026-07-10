@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-R08-F5-CANONICAL-CMDV-A1",
+  "surface_id": "R08",
+  "surface": "Editpad online notepad",
+  "profile": "plain_multiline",
+  "fixture_id": "F5",
+  "source_path": "frozen CleanPaste canonical clipboard bridge",
+  "paste_path": "Command-V",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact canonical copy-back match.",
+  "executed_at": "2026-07-10T09:47:27.515Z"
+}

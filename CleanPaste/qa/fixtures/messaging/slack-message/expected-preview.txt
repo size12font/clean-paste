@@ -1,0 +1,4 @@
+Heads up — paste test passes ✅
+
+Next: try Telegram and Notion.
+

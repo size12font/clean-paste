@@ -1,0 +1,11 @@
+Launch notes
+
+First paragraph
+second line
+
+- Buffer
+- LinkedIn
+
+Name	Status
+CleanPaste	Ready
+

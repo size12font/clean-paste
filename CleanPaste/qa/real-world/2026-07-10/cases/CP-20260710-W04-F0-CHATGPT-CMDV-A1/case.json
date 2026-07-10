@@ -1,0 +1,15 @@
+{
+  "case_id": "CP-20260710-W04-F0-CHATGPT-CMDV-A1",
+  "surface_id": "W04",
+  "surface": "Google Sheets grid paste",
+  "fixture": "F0",
+  "source_provider": "ChatGPT",
+  "browser": "Google Chrome 149.0.7827.158",
+  "spreadsheet": "QA DO NOT SEND - CleanPaste - W04 - 2026-07-10",
+  "expected_sha256": "f3767d9ed789a371afbb526879da533a14186ef46e5421e6b9ee90e6c354087b",
+  "actual_sha256": "f3767d9ed789a371afbb526879da533a14186ef46e5421e6b9ee90e6c354087b",
+  "grid_shape": "4x1",
+  "status": "pass",
+  "score": 100
+}
+

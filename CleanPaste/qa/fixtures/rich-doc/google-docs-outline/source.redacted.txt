@@ -1,0 +1,2 @@
+[safe starter fixture] **Launch checklist**\n\n• Confirm privacy copy\n• Test clean paste fallback\n• Ship direct download
+

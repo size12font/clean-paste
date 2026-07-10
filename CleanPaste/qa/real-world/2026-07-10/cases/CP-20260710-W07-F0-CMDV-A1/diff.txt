@@ -1,0 +1,1 @@
+Destination is single-line: all line breaks removed without separators.

@@ -1,0 +1,70 @@
+surface_id,runtime,surface,profile,tier,availability,status,cases_planned,cases_completed,notes
+W01,web,Google Docs document body,rich_editor,1,authenticated,pass_with_destination_normalization,7,7,source_overlay;F0_F2_F4_F5_F6_F6G_exact;reload_pass;Claude_overlay_blocked_auth
+W02,web,Google Docs comment,limited_rich_chat,2,authenticated,destination_constraint,3,3,F0_F2_exact;F6_2000_char_limit_and_indent_loss;draft_discarded
+W03,web,Google Sheets single-cell edit,grid_cell,1,authenticated,destination_constraint,7,7,source_overlay;F0_F2_F5_F6_F6G_exact;F4_tabs_expand_to_8_spaces;Claude_overlay_blocked_auth
+W04,web,Google Sheets grid paste,grid_cell,3,authenticated,destination_constraint,3,3,pilot;F0_pass;F7_fallback_pass;F6_indent_loss
+W05,web,Google Slides text box,canvas_text,2,authenticated,pass,3,3,F0_F2_F5_exact;private_scratch_presentation
+W06,web,Gmail compose body,rich_editor,1,authenticated,destination_constraint,5,5,F0_F2_exact;F4_nbsp_and_tab_normalization;F5_F6_emoji_inline_image_plain_copyback_loss;draft_discarded
+W07,web,Gmail subject,single_line,3,authenticated,destination_constraint,3,3,line_breaks_removed_without_separator;Unicode_emoji_preserved;draft_discarded
+W08,web,Notion web page body,block_editor,1,blocked_auth,blocked_auth,5,5,marketing_page;login_required
+W09,web,ChatGPT web prompt composer,chat_composer,2,guest_access,pass_with_destination_normalization,3,3,visual_layout_exact;copyback_adds_paragraph_newline;not_submitted
+W10,web,Claude web prompt composer,chat_composer,2,authenticated,destination_constraint,3,3,F0_visual_pass;F2_F5_blank_lines_collapse;not_submitted
+W11,web,Gemini web prompt composer,chat_composer,2,authenticated,pass_with_destination_normalization,3,3,visual_layout_exact;copyback_adds_paragraph_newline;not_submitted
+W12,web,Slack web channel composer,slack_rich,1,blocked_auth,blocked_auth,7,7,pilot;source_overlay;workspace_signin
+W13,web,Discord web message composer,chat_markdown,1,blocked_auth,blocked_auth,5,5,redirected_to_login
+W14,web,LinkedIn post composer,plain_multiline,1,blocked_auth,blocked_auth,7,7,source_overlay;redirected_to_login
+W15,web,LinkedIn comment composer,limited_plain,3,blocked_auth,blocked_auth,3,3,redirected_to_login
+W16,web,X post composer,plain_multiline,3,blocked_auth,blocked_auth,3,3,redirected_to_login_onboarding
+W17,web,Reddit Fancy Pants post editor,rich_editor,1,blocked_auth,blocked_auth,5,5,redirected_to_login
+W18,web,Reddit Markdown post editor,markdown_editor,2,blocked_auth,blocked_auth,3,3,redirected_to_login
+W19,web,GitHub issue body,markdown_editor,1,blocked_auth,blocked_auth,7,7,source_overlay;redirected_to_sign_in
+W20,web,Stack Overflow question editor,markdown_editor,2,blocked_auth,blocked_auth,3,3,redirected_to_log_in
+W21,web,Linear issue description,rich_markdown,1,blocked_auth,blocked_auth,5,5,marketing_page;login_required
+W22,web,Trello card description,markdown_editor,2,blocked_auth,blocked_auth,3,3,marketing_page;Atlassian_login_required
+W23,web,Medium story editor,rich_editor,2,blocked_auth,blocked_auth,3,3,redirected_to_sign_in
+W24,web,Substack post editor,rich_editor,2,blocked_auth,blocked_auth,3,3,Create_opened_sign_in_dialog
+W25,web,WordPress Gutenberg canvas,block_editor,2,blocked_auth,blocked_auth,3,3,redirected_to_log_in
+W26,web,Canva Docs page body,rich_block,2,blocked_auth,blocked_auth,3,3,marketing_page;editor_login_required
+W27,web,Google Forms paragraph answer,plain_multiline,2,authenticated,pass,3,3,F0_F2_F5_exact;unpublished_preview;not_submitted
+W28,web,Typeform short-answer field,single_line,3,blocked_auth,blocked_auth,3,3,marketing_page;login_required
+W29,web,Airtable long-text cell,grid_rich,3,blocked_auth,blocked_auth,3,3,marketing_page;login_required
+W30,web,Figma comment composer,limited_plain,3,blocked_auth,blocked_auth,3,3,marketing_page;login_required
+R01,web,Quill Snow playground rich editor,rich_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_rich_editor
+R02,web,TinyMCE basic demo rich editor,rich_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_rich_editor
+R03,web,CKEditor feature-rich demo,rich_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_rich_editor
+R04,web,Google Translate source text,plain_multiline,2,authenticated,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R05,web,WordCounter document editor,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R06,web,CharacterCountOnline primary editor,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R07,web,YAML Lint source textarea,source_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_source_editor
+R08,web,Editpad online notepad,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R09,web,aNotepad note content,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R10,web,Browserling word-count textarea,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R11,web,regex101 test-string editor,source_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_source_editor
+R12,web,Diffchecker original-text editor,source_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_source_editor
+R13,web,Base64Encode source textarea,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R14,web,URLEncoder source textarea,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R15,web,HTMLEscape input textarea,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R16,web,Code Beautify HTML input editor,source_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_source_editor
+R17,web,FreeFormatter JSON source textarea,source_editor,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_source_editor
+R18,web,PrePostSEO word counter editor,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+R19,web,WordCountTools primary editor,plain_multiline,2,public,pass,3,3,F0_F2_F5_exact;replacement_for_blocked_multiline
+D01,desktop,TextEdit plain-text document,native_plain,1,available,pass,7,7,pilot;production_Command-V;F0_F1_F2_F4_F5_F6_F7_exact
+D02,desktop,TextEdit rich-text document,native_rich,1,available,pass,7,7,pilot;production_Command-V;F0_F1_F2_F4_F5_F6_F7_exact;three_invalid_focus-harness_attempts_excluded
+D03,desktop,Apple Notes note body,native_rich,1,available,destination_constraint,5,5,F0_F2_F5_exact;F4_F6_indent_tab_loss;production_Command-V
+D04,desktop,Apple Pages document body,native_rich,1,available,pass,5,5,F0_F2_F4_F5_F6_exact;production_Command-V;intermittent_runner_retries_excluded
+D05,desktop,Apple Mail compose body,native_rich,1,blocked_app_control,blocked_environment,5,5,installed;desktop_window_control_unavailable
+D06,desktop,Apple Messages draft composer,chat_plain,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D07,desktop,Slack desktop channel composer,slack_rich,1,blocked_app_control,blocked_environment,7,7,source_overlay;installed;desktop_window_control_unavailable
+D08,desktop,Discord desktop message composer,chat_markdown,1,blocked_app_control,blocked_environment,5,5,installed;desktop_window_control_unavailable
+D09,desktop,Telegram desktop draft composer,chat_plain,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D10,desktop,KakaoTalk desktop draft composer,chat_plain,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D11,desktop,LINE desktop draft composer,chat_plain,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D12,desktop,Notion desktop page body,block_editor,1,blocked_app_control,blocked_environment,5,5,installed;desktop_window_control_unavailable
+D13,desktop,Apple Numbers single-cell edit,grid_cell,3,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D14,desktop,Apple Numbers grid paste,grid_cell,3,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D15,desktop,Apple Keynote text box,canvas_text,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D16,desktop,Apple Freeform text box,canvas_text,2,blocked_app_control,blocked_environment,3,3,installed;desktop_window_control_unavailable
+D17,desktop,Obsidian Source Mode editor,markdown_source,1,blocked_app_control,blocked_environment,7,7,source_overlay;installed;desktop_window_control_unavailable
+D18,desktop,Visual Studio Code scratch editor,source_editor,1,available,pass,5,5,F0_F2_F4_F5_F6_exact;saved_file_readback
+D19,desktop,Xcode scratch source editor,source_editor,2,available,destination_constraint,3,3,F0_F5_exact;F4_tabs_expand_to_4_spaces;scratch_not_built
+D20,desktop,Finder filename rename field,single_line,3,blocked_app_control,blocked_environment,5,5,source_overlay;installed;desktop_window_control_unavailable

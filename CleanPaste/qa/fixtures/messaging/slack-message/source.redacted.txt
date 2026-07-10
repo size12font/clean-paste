@@ -1,0 +1,2 @@
+[safe starter fixture] Heads up — paste test passes ✅\n\nNext: try Telegram and Notion.
+

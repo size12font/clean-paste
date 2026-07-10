@@ -1,0 +1,9 @@
+{
+  "case_id": "CP-20260710-W15-F0-WEB-BLOCKED-A1",
+  "surface_id": "W15",
+  "fixture_id": "F0",
+  "status": "blocked_auth",
+  "score": null,
+  "notes": "LinkedIn redirected to login. Existing sessions only; no account creation or auth expansion authorized.",
+  "executed_at": "2026-07-10T14:55:00+09:00"
+}

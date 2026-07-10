@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W03-F6-CHATGPT-CMDV-A1",
+  "surface_id": "W03",
+  "surface": "Google Sheets single-cell edit",
+  "fixture_id": "F6",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact single-cell content match after decoding Sheets clipboard CSV quoting.",
+  "executed_at": "2026-07-10T14:12:00+09:00"
+}

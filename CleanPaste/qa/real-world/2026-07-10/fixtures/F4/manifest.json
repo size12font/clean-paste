@@ -1,0 +1,10 @@
+{
+  "fixture_id": "F4",
+  "canonical_sha256_without_trailing_newline": "86cd91f2bd0f787363c487101c03e19e76f073e69b86d459695b2e2ff048c27e",
+  "canonical_bytes": 131,
+  "canonical_characters": 131,
+  "canonical_lines": 17,
+  "required_tokens_in_order": ["F4 COMPLEX", "F4_QUOTE", "F4_CODE_A", "F4_CODE_B", "F4_H1", "F4_C1", "F4_TODO", "F4_DONE", "F4_END"],
+  "source_observation": "Code fences removed; table degraded to tab-separated rows; horizontal rule marker remains."
+}
+

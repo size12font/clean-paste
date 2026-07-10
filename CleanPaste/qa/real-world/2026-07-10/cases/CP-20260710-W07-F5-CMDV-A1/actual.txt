@@ -1,0 +1,1 @@
+F5 UNICODEHangul: F5_HANGUL 클린페이스트Japanese: F5_JAPANESE クリップボードArabic: F5_ARABIC مرحباAccent: F5_ACCENT caféCombining: F5_COMBINING caféEmoji: F5_EMOJI family 👨👩👧👦 and test 🧪Quotes: F5_QUOTES “smart quotes”Dash: F5_DASH en–dash em—dashF5_END

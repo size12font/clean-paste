@@ -1,0 +1,19 @@
+--- CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D03-F4-PRODUCTION-CMDV-A1/expected.txt	2026-07-10 18:59:47
++++ CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D03-F4-PRODUCTION-CMDV-A1/actual.txt	2026-07-10 19:01:33
+@@ -2,12 +2,12 @@
+ 
+ > F4_QUOTE
+ 
+-    F4_CODE_A
++F4_CODE_A
+ 
+-    F4_CODE_B
++F4_CODE_B
+ 
+-F4_H1	F4_H2	F4_H3
+-F4_C1	F4_C2	F4_C3
++F4_H1 F4_H2 F4_H3
++F4_C1 F4_C2 F4_C3
+ 
+ - [ ] F4_TODO
+ - [x] F4_DONE

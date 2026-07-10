@@ -1,0 +1,1 @@
+Visual line layout matches. Copy-back serializes each contenteditable paragraph with an extra newline; collapsing paired newlines exactly restores canonical text.

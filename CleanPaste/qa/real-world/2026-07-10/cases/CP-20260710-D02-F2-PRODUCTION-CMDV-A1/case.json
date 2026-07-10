@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D02-F2-PRODUCTION-CMDV-A1",
+  "surface_id": "D02",
+  "surface": "TextEdit rich document",
+  "fixture_id": "F2",
+  "source_path": "raw provider payload replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "invalid_harness",
+  "score": null,
+  "severity": null,
+  "notes": "Invalid attempt: runner clicked TextEdit ruler instead of preserving document insertion focus. Corrected A4 passed exactly.",
+  "executed_at": "2026-07-10T09:34:59Z"
+}

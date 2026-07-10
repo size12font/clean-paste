@@ -1,0 +1,18 @@
+{
+  "captureMode" : "controlled-live-harness",
+  "capturedAt" : "2026-07-09T23:49:07Z",
+  "category" : "html-only",
+  "fullCapture" : true,
+  "hasHTML" : true,
+  "hasPlainText" : false,
+  "hasRTF" : false,
+  "htmlLength" : 124,
+  "plainTextLength" : 0,
+  "privacy" : "Full payload captured from checked-in non-sensitive fixture text by explicit confirmation.",
+  "rtfLength" : 0,
+  "sourceHarness" : "controlled_html_only_edge",
+  "types" : [
+    "Apple HTML pasteboard type",
+    "public.html"
+  ]
+}

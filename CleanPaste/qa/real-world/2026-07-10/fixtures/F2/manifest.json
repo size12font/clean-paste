@@ -1,0 +1,10 @@
+{
+  "fixture_id": "F2",
+  "canonical_sha256_without_trailing_newline": "c644803d824f40dc8ccbc79bc1a83ff79d1daf1f6d64fb90d8d8b55d430303d4",
+  "canonical_bytes": 109,
+  "canonical_characters": 109,
+  "canonical_lines": 13,
+  "required_tokens_in_order": ["F2 LISTS", "F2_B1", "F2_B2", "F2_B2A", "F2_B2B", "F2_N7", "F2_N8", "F2_N9", "F2_END"],
+  "source_observation": "Gemini HTML preserved nesting while copied plain text and CleanPaste preview flattened nested items."
+}
+

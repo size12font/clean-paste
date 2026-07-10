@@ -1,0 +1,6 @@
+{
+  "copyback_types": ["text/plain", "text/html", "application/x-vnd.google-spreadsheet-compact-table+json", "application/x-vnd.google-docs-embedded-grid_range_clip+wrapped", "application/x-vnd.google-docs-internal-clip-id"],
+  "selected_grid_shape": "4x1",
+  "token_order_preserved": true
+}
+

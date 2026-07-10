@@ -1,0 +1,21 @@
+{
+  "fixture_id": "F6",
+  "provider": "ChatGPT",
+  "source_url": "https://chatgpt.com/",
+  "auth_state": "guest",
+  "copy_method": "native Copy response button",
+  "captured_at": "2026-07-10T13:24:00+09:00",
+  "cleanpaste_state": "quit for raw capture; Chrome bridge clipboard captured from claimed user tab",
+  "representations": [
+    {
+      "mime_type": "text/plain",
+      "character_count": 2228,
+      "sha256": "8c2cb07e231c610601412a8d0f364b2674add25bf714a48bfaeea8c8744504e8"
+    },
+    {
+      "mime_type": "text/html",
+      "character_count": 2527,
+      "sha256": "3d1d33130769a03d0c27dbab0495a42568e65be8927e426a3e89bdba569794bf"
+    }
+  ]
+}

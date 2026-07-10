@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W02-F6-CHATGPT-CMDV-A1",
+  "surface_id": "W02",
+  "surface": "Google Docs comment",
+  "fixture_id": "F6",
+  "status": "fail",
+  "score": 55,
+  "notes": "P1 destination constraint: comment draft strips leading indentation and truncates content at 2000 characters; draft not posted.",
+  "executed_at": "2026-07-10T14:05:00+09:00"
+}

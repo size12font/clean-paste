@@ -1,0 +1,2 @@
+[safe starter fixture] First line\u00a0with NBSP\n\n\nSecond line\u200b with hidden char
+

@@ -1,0 +1,7 @@
+{
+  "editor_role": "textbox",
+  "editor_accessible_name": "Document content",
+  "copyback_types": ["text/html", "text/plain", "application/x-vnd.google-docs-document-slice-clip+wrapped", "application/x-vnd.google-docs-internal-clip-id"],
+  "plain_text_exact_after_trailing_newline_normalization": true
+}
+

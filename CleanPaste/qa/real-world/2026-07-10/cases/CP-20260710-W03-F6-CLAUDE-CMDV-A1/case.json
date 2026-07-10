@@ -1,0 +1,9 @@
+{
+  "case_id": "CP-20260710-W03-F6-CLAUDE-CMDV-A1",
+  "surface_id": "W03",
+  "fixture_id": "F6",
+  "source": "Claude",
+  "status": "blocked",
+  "score": null,
+  "notes": "Claude source requires login; no credentials or account changes authorized."
+}

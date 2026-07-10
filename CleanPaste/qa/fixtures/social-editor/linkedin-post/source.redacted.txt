@@ -1,0 +1,2 @@
+[safe starter fixture] CleanPaste v1:\n\n1. Normalize clipboard text\n2. Remove rich formatting noise\n3. Paste same structure everywhere
+

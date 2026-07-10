@@ -1,0 +1,2 @@
+[safe starter fixture] Here is the plan:\n\n\n**Step one:** Copy the clean text.\n\n**Step two:** Paste into Buffer.
+

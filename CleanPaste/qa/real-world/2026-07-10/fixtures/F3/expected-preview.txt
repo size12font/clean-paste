@@ -1,0 +1,12 @@
+F3 INLINE
+
+F3_BOLD
+F3_ITALIC
+F3_BOTH
+F3_STRIKE
+f3_inline_code()
+F3_LINK (https://example.com/cleanpaste)
+https://example.org/f3 (https://example.org/f3)
+
+F3_END
+

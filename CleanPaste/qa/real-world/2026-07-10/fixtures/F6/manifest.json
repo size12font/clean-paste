@@ -1,0 +1,30 @@
+{
+  "fixture_id": "F6",
+  "canonical_sha256_without_trailing_newline": "6dc550f2d336aaafe0075ecf14a8da2e260d9a3f0938c4b8c3e62650ab1daa3b",
+  "canonical_bytes": 2200,
+  "canonical_characters": 2179,
+  "canonical_lines": 20,
+  "required_tokens_in_order": [
+    "F6 CLEANPASTE QA",
+    "F6_P1",
+    "F6_B1",
+    "F6_B2",
+    "F6_B2A",
+    "F6_B2B",
+    "F6_N3",
+    "F6_N4",
+    "F6_N5",
+    "alpha",
+    "beta",
+    "F6_P2",
+    "F6_END"
+  ],
+  "paragraph_blocks": 5,
+  "unordered_items": 4,
+  "ordered_items": 3,
+  "ordered_list_start": 3,
+  "link_target": "https://openai.com",
+  "unicode_tokens": ["🧪", "클린페이스트", "“consistent rendering”", "—"],
+  "expected_source_styles_removed": ["heading marker", "bold", "italic", "inline-code markers", "code fence"],
+  "expected_clipboard_types_for_non_slack_target": ["text/plain"]
+}

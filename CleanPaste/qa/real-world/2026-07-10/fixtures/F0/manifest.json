@@ -1,0 +1,9 @@
+{
+  "fixture_id": "F0",
+  "canonical_sha256_without_trailing_newline": "f3767d9ed789a371afbb526879da533a14186ef46e5421e6b9ee90e6c354087b",
+  "canonical_bytes": 99,
+  "canonical_characters": 99,
+  "canonical_lines": 4,
+  "required_tokens_in_order": ["F0_INTEGRITY", "F0_LINE_1", "F0_LINE_2", "F0_END"]
+}
+

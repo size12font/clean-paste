@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W11-F5-CMDV-A1",
+  "surface_id": "W11",
+  "surface": "Gemini web prompt composer",
+  "fixture_id": "F5",
+  "status": "fallback_pass",
+  "score": 95,
+  "notes": "Visual formatting preserved; contenteditable copy-back adds one newline between every paragraph. Prompt not submitted.",
+  "executed_at": "2026-07-10T14:25:00+09:00"
+}

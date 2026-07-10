@@ -1,0 +1,18 @@
+{
+  "case_id": "CP-20260710-W04-F6-CHATGPT-CMDV-A1",
+  "surface_id": "W04",
+  "surface": "Google Sheets grid paste",
+  "fixture": "F6",
+  "source_provider": "ChatGPT",
+  "browser": "Google Chrome 149.0.7827.158",
+  "spreadsheet": "QA DO NOT SEND - CleanPaste - W04 - 2026-07-10",
+  "expected_sha256": "6dc550f2d336aaafe0075ecf14a8da2e260d9a3f0938c4b8c3e62650ab1daa3b",
+  "actual_sha256": "043c47ff35450729f8b290689f6620418afab08dd26bceefe7ba985d6de693df",
+  "status": "fail",
+  "severity": "P2",
+  "score": 85,
+  "reproduction": "3/3 identical",
+  "attribution": "Google Sheets grid-paste destination constraint",
+  "critical_assertions": {"all_words_present": true, "nested_indentation_preserved": false, "code_indentation_preserved": false}
+}
+

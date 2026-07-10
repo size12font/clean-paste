@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W07-F5-CMDV-A1",
+  "surface_id": "W07",
+  "surface": "Gmail subject",
+  "fixture_id": "F5",
+  "status": "fallback_fail",
+  "score": 70,
+  "notes": "P2: line boundaries concatenate; Unicode and emoji otherwise preserved.",
+  "executed_at": "2026-07-10T14:20:00+09:00"
+}

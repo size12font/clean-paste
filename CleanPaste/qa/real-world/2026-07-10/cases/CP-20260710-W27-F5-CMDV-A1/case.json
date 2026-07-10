@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W27-F5-CMDV-A1",
+  "surface_id": "W27",
+  "surface": "Google Forms paragraph answer",
+  "fixture_id": "F5",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact text match in unpublished preview; response not submitted.",
+  "executed_at": "2026-07-10T14:45:00+09:00"
+}

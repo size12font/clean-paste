@@ -1,0 +1,2 @@
+Exact text match. Four canonical lines mapped to four rows in column A.
+

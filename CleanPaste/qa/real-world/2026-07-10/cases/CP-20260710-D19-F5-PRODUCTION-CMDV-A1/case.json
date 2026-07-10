@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D19-F5-PRODUCTION-CMDV-A1",
+  "surface_id": "D19",
+  "surface": "Xcode scratch source editor",
+  "fixture_id": "F5",
+  "source_path": "raw provider plain replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "invalid_harness",
+  "score": null,
+  "severity": null,
+  "notes": "Invalid attempt: Xcode external-file-change dialog intercepted paste. Later attempts dismissed dialog.",
+  "executed_at": "2026-07-10T10:10:19Z"
+}

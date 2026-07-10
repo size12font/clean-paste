@@ -1,0 +1,10 @@
+L8 EXPECTED:   - F6_B2A Ensure child indentation is preserved exactly and no unexpected wrapping occurs.
+L8 ACTUAL:   - F6_B2A Ensure child indentation is preserved exactly and no unexpected wrapping occurs.
+L9 EXPECTED:   - F6_B2B Confirm nested ordering remains stable even after clipboard normalization.
+L9 ACTUAL:   - F6_B2B Confirm nested ordering remains stable even after clipboard normalization.
+L15 EXPECTED:   alpha
+L15 ACTUAL:   alpha
+L16 EXPECTED:   beta
+L16 ACTUAL:   beta
+L20 EXPECTED: Closing verification paragraph: F6_END confirms the fixture terminates with a plain, neutral statement appropriate for product-testing workflows and no additional metadata.
+L20 ACTUAL:   Closing verification paragra

@@ -1,0 +1,9 @@
+{
+  "case_id": "CP-20260710-D20-F2-DESKTOP-BLOCKED-A1",
+  "surface_id": "D20",
+  "fixture_id": "F2",
+  "status": "blocked_environment",
+  "score": null,
+  "notes": "Installed application verified. Desktop Accessibility probe returned frontmost=false and zero windows after activation; OS-level paste target cannot be controlled or observed in this session.",
+  "executed_at": "2026-07-10T14:35:00+09:00"
+}

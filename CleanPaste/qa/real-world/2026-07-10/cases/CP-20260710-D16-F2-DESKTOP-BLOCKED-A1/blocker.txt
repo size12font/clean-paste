@@ -1,0 +1,1 @@
+Application installed. Activation attempted. System Events reported frontmost=false and 0 windows. Desktop case not executed; no fabricated result.

@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-R05-F0-CANONICAL-CMDV-A1",
+  "surface_id": "R05",
+  "surface": "WordCounter document editor",
+  "profile": "plain_multiline",
+  "fixture_id": "F0",
+  "source_path": "frozen CleanPaste canonical clipboard bridge",
+  "paste_path": "Command-V",
+  "status": "pass",
+  "score": 100,
+  "notes": "Exact canonical copy-back match.",
+  "executed_at": "2026-07-10T09:45:02.815Z"
+}

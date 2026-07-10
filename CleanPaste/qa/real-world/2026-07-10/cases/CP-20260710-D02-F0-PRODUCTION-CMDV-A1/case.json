@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D02-F0-PRODUCTION-CMDV-A1",
+  "surface_id": "D02",
+  "surface": "TextEdit rich document",
+  "fixture_id": "F0",
+  "source_path": "raw provider payload replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "pass",
+  "score": 100,
+  "severity": null,
+  "notes": "Exact canonical text match from production CleanPaste clipboard path.",
+  "executed_at": "2026-07-10T09:34:53Z"
+}

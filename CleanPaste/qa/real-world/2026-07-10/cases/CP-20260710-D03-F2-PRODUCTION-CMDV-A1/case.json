@@ -1,0 +1,13 @@
+{
+  "case_id": "CP-20260710-D03-F2-PRODUCTION-CMDV-A1",
+  "surface_id": "D03",
+  "surface": "Apple Notes note body",
+  "fixture_id": "F2",
+  "source_path": "raw provider plain replayed to NSPasteboard",
+  "paste_path": "Command-V",
+  "status": "pass",
+  "score": 100,
+  "severity": null,
+  "notes": "Exact canonical text match from Notes body HTML.",
+  "executed_at": "2026-07-10T09:59:11Z"
+}

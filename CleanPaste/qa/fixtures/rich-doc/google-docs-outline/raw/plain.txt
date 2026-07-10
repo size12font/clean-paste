@@ -1,0 +1,6 @@
+**Launch checklist**
+
+• Confirm privacy copy
+• Test clean paste fallback
+• Ship direct download
+

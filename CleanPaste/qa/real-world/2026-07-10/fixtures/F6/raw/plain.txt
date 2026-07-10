@@ -1,0 +1,23 @@
+# F6 CLEANPASTE QA
+
+**F6_P1** This synthetic clipboard-format QA fixture is intended for neutral validation of text transfer behavior across editors, browsers, and note fields. It includes *mixed formatting* and predictable markers so automated checks can compare structure after copy and paste. The sample references inline code `clean_paste()` without implying execution, includes the Korean text 클린페이스트, and adds the emoji 🧪 for Unicode verification. The phrase “consistent rendering” is quoted with smart punctuation, and an em dash separates related ideas—useful for confirming character preservation. For external link handling, include the labeled reference [OpenAI](https://openai.com). The objective is deterministic formatting rather than feature promotion or evaluation.
+
+* **F6_B1** Verify unordered list indentation, spacing, and marker retention after repeated paste operations.
+* **F6_B2** Confirm nested hierarchy remains unchanged when copied between plain-text and rich-text destinations.
+
+  * F6_B2A Ensure child indentation is preserved exactly and no unexpected wrapping occurs.
+  * F6_B2B Confirm nested ordering remains stable even after clipboard normalization.
+
+3. **F6_N3** Record whether numbering begins at the specified value instead of resetting automatically.
+4. **F6_N4** Compare visible whitespace, punctuation, emphasis, and Unicode characters after each transfer.
+5. **F6_N5** Capture any differences consistently using reproducible observations only.
+
+```text
+  alpha
+  beta
+```
+
+**F6_P2** This paragraph completes the fixture by combining ordinary prose with stable formatting markers suitable for regression testing. The content is intentionally generic and avoids domain-specific claims while exercising headings, paragraphs, lists, emphasis, links, code spans, quotation marks, and fenced blocks together in one sample. Repeated copy, paste, and serialization should preserve visible tokens exactly, including capitalization and spacing, allowing straightforward comparison between expected and observed outputs.
+
+Closing verification paragraph: F6_END confirms the fixture terminates with a plain, neutral statement appropriate for product-testing workflows and no additional metadata.
+

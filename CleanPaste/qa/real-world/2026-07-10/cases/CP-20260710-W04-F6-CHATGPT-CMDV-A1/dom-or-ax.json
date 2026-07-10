@@ -1,0 +1,10 @@
+{
+  "selected_grid_shape": "20x1",
+  "all_tokens_present": true,
+  "leading_spaces_removed_from_lines": [8, 9, 15, 16],
+  "reproduction_hashes": [
+    "043c47ff35450729f8b290689f6620418afab08dd26bceefe7ba985d6de693df",
+    "043c47ff35450729f8b290689f6620418afab08dd26bceefe7ba985d6de693df",
+    "043c47ff35450729f8b290689f6620418afab08dd26bceefe7ba985d6de693df"
+  ]
+}

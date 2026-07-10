@@ -1,0 +1,5 @@
+CleanPaste v1:
+
+1. Normalize clipboard text
+2. Remove rich formatting noise
+3. Paste same structure everywhere

@@ -1,0 +1,10 @@
+# Shipping notes
+
+Keep `snake_case`, `file_name.txt`, “smart quotes”, and em dashes — untouched.
+
+Use [CleanPaste](https://example.com) and *strip emphasis* without touching text.
+
+```swift
+let file_name = "demo.txt"
+```
+

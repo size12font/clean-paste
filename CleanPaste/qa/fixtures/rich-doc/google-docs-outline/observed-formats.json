@@ -1,0 +1,22 @@
+{
+  "captureMode" : "controlled-live-harness",
+  "capturedAt" : "2026-07-09T23:49:07Z",
+  "category" : "rich-doc",
+  "fullCapture" : true,
+  "hasHTML" : false,
+  "hasPlainText" : true,
+  "hasRTF" : true,
+  "htmlLength" : 0,
+  "plainTextLength" : 97,
+  "privacy" : "Full payload captured from checked-in non-sensitive fixture text by explicit confirmation.",
+  "rtfLength" : 477,
+  "sourceHarness" : "appkit_rich_text",
+  "types" : [
+    "CorePasteboardFlavorType 0x75743136",
+    "NSStringPboardType",
+    "NeXT Rich Text Format v1.0 pasteboard type",
+    "public.rtf",
+    "public.utf16-external-plain-text",
+    "public.utf8-plain-text"
+  ]
+}

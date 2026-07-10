@@ -1,0 +1,16 @@
+--- /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F5-PRODUCTION-CMDV-A1/expected.txt	2026-07-10 19:10:19
++++ /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F5-PRODUCTION-CMDV-A1/actual.txt	2026-07-10 19:10:19
+@@ -1,12 +1 @@
+-F5 UNICODE
+-
+-Hangul: F5_HANGUL 클린페이스트
+-Japanese: F5_JAPANESE クリップボード
+-Arabic: F5_ARABIC مرحبا
+-Accent: F5_ACCENT café
+-Combining: F5_COMBINING café
+-Emoji: F5_EMOJI family 👨👩👧👦 and test 🧪
+-Quotes: F5_QUOTES “smart quotes”
+-Dash: F5_DASH en–dash em—dash
+-
+-F5_END
++// QA SCRATCH — never built

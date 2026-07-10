@@ -1,0 +1,8 @@
+{
+  "fixture_id": "F6G",
+  "canonical_sha256_without_trailing_newline": "9e981e8229d9cf57f5fbbb48993b2b4442403c595f2d539379d091c91a41ea60",
+  "canonical_bytes": 1708,
+  "canonical_characters": 1687,
+  "canonical_lines": 21,
+  "required_tokens_in_order": ["F6 CLEANPASTE QA", "F6_P1", "F6_P2", "F6_B1", "F6_B2", "F6_B2A", "F6_B2B", "F6_N3", "F6_N4", "F6_N5", "Line alpha verification", "Line beta verification", "F6_END"]
+}

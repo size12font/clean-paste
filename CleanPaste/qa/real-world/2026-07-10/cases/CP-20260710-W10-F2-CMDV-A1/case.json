@@ -1,0 +1,10 @@
+{
+  "case_id": "CP-20260710-W10-F2-CMDV-A1",
+  "surface_id": "W10",
+  "surface": "Claude web prompt composer",
+  "fixture_id": "F2",
+  "status": "fail",
+  "score": 85,
+  "notes": "P2: intentional blank lines collapse in the composer; list markers and tokens remain. Prompt not submitted.",
+  "executed_at": "2026-07-10T14:50:00+09:00"
+}

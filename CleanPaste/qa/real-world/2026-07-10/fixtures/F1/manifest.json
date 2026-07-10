@@ -1,0 +1,9 @@
+{
+  "fixture_id": "F1",
+  "canonical_sha256_without_trailing_newline": "d4b4ffde1a34c632ecdb34acf9c54ec98fecd74bec54fe71ee79c12e0ecd09ec",
+  "canonical_bytes": 722,
+  "canonical_characters": 722,
+  "canonical_lines": 12,
+  "required_tokens_in_order": ["F1 WHITESPACE", "F1_P1", "F1_HARD_A", "F1_HARD_B", "F1_P2", "F1_END"]
+}
+
