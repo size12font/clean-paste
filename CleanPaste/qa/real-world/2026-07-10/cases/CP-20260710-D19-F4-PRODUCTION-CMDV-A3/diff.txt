@@ -1,5 +1,5 @@
---- /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F4-PRODUCTION-CMDV-A3/expected.txt	2026-07-10 19:11:09
-+++ /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F4-PRODUCTION-CMDV-A3/actual.txt	2026-07-10 19:11:09
+--- <workspace>/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F4-PRODUCTION-CMDV-A3/expected.txt	2026-07-10 19:11:09
++++ <workspace>/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D19-F4-PRODUCTION-CMDV-A3/actual.txt	2026-07-10 19:11:09
 @@ -6,8 +6,8 @@
  
      F4_CODE_B

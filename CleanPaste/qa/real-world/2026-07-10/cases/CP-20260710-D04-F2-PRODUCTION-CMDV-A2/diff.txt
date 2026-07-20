@@ -1,5 +1,5 @@
---- /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D04-F2-PRODUCTION-CMDV-A2/expected.txt	2026-07-10 19:04:32
-+++ /Users/johnnyquach/Desktop/Projects/clean paste/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D04-F2-PRODUCTION-CMDV-A2/actual.txt	2026-07-10 19:04:32
+--- <workspace>/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D04-F2-PRODUCTION-CMDV-A2/expected.txt	2026-07-10 19:04:32
++++ <workspace>/CleanPaste/qa/real-world/2026-07-10/cases/CP-20260710-D04-F2-PRODUCTION-CMDV-A2/actual.txt	2026-07-10 19:04:32
 @@ -1,11 +1,13 @@
 -F2 LISTS
 +# F2 LISTS

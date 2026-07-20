@@ -1,6 +1,6 @@
 # Canonical Source Conformance
 
-Generated: 2026-07-10T14:28:35Z
+Generated: 2026-07-20T14:18:10Z
 
 Every source fixture is normalized once into `CanonicalPaste`. Target apps are not matrix columns.
 

@@ -40,7 +40,7 @@ The product should not chase full rich-text fidelity in v1. The valuable outcome
 
 ### Actors
 
-- A1. Johnny, copying text from any app and pasting it into any other app.
+- A1. A person copying text from any app and pasting it into another app.
 - A2. Source app, any app that places text or recoverable HTML on the macOS pasteboard.
 - A3. Target app, any app that accepts plain-text paste.
 - A4. CleanPaste, reading the clipboard, producing the canonical preview, writing plain text, and optionally triggering paste.
